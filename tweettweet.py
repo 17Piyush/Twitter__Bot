@@ -14,7 +14,7 @@ print (user.name) #prints your name.
 print (user.screen_name)
 print (user.followers_count)
 
-search = "zerotomastery"
+search = "anything you want to search"
 numberOfTweets = 2
 
 def limit_handle(cursor):
